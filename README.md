@@ -178,6 +178,4 @@ Continued use of the App after changes indicates acceptance of the updated polic
 
 If you have questions about this Privacy Policy or how your data is handled, you may contact us at:
 
-**Email:** [support@yourappdomain.com](mailto:support@yourappdomain.com)
-**Company:** Your Company Name
-**Address:** Your Company Address
+**Email:** 14kworkspace@14kbsol.com
